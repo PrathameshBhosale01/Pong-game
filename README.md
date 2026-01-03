@@ -145,7 +145,7 @@ This project is licensed under the MIT License - feel free to use it for learnin
 
 **Prathamesh Bhosale**
 
-- GitHub: [@yourusername](https://github.com/PrathameshBhosale01)
+- GitHub: [@Prathamesh Bhosale](https://github.com/PrathameshBhosale01)
 
 ## 🙏 Acknowledgments
 
